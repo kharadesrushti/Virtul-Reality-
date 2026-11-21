@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+
+<!-- Latest compiled JavaScript -->
+<script async src="//jsfiddle.net/k23jr7xb/embed/html,css,result/"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">-->
+<link rel="stylesheet" href="design.css">
+
+		<title>Punarvspace Interns</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<!--<style>
+			.header{
+				width:100%;
+				height:200px;
+				background-color:#808080;
+			}
+			body{
+				margin:0px;
+				padding:0px;
+			}
+			.logo{
+				color:#000000;
+				font-size:40px;
+				
+				text-align:left;
+				margin-top:0px;
+				float:left;
+				margin:0px;
+				line-height:200px;
+				padding-left:25px;
+			}
+			
+		
+		</style>-->
+	</head>
+	<body>
+		<div class="header">
+		
+		<label id="text" ><b>VERTUAL REALITY</b></label>
+
+			<img id="logo" src="logo1.png" >
+			
+		
+		</div>
+	
+		
+		<!--<style>
+		.navbar {
+  width: 100%;
+}
+
+.navbar a {
+  
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background-color:#0080FF;
+}
+
+.active {
+  background-color:#0080FF;
+}
+</style>
+		
+-->		
+	<nav class="navbar navbar-expand-lg sticky bg-dark">
+  <div class="container-fluid">
+    <!--<a class="active" href="E:\internship\project\vr\index.html">&nbsp&nbsp HOME &nbsp&nbsp</a>-->
+	
+ 
+	<div class="collapse navbar-collapse" id="navbarNavDropdown">
+	<div class="f">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+		<li class="nav-item">
+          <a class="nav-link text-light" href="index.html">&nbsp&nbsp Home
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="history.html">&nbsp&nbsp History
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="features.html">&nbsp&nbsp 
+		Features &nbsp&nbsp</a>
+        </li>
+		<a class="nav-link text-light " aria-current="page" href="latest.html">		
+		  &nbsp&nbsp Latest Technology &nbsp&nbsp</a>
+        </li>
+         <li class="nav-item">
+          <a class="nav-link text-light" href="products.html">&nbsp&nbsp VR Products
+		  &nbsp&nbsp</a>
+        </li>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp<a href="#" class="fa fa-twitter"></a>&nbsp&nbsp
+   &nbsp&nbsp<a href="#" class="fa fa-facebook"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-google"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-youtube"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-linkedin"></a>&nbsp&nbsp
+	
+</div>
+</div>
+</div>
+</nav>
+
+<br><br><br>
+<div>
+<h1>History Of Virtual Reality</h1>
+<br>
+<p style="font-size:26px;"> <b>1960 -  The first VR Head Mounted Display</b>
+<br>Morton Heiligs next invention was the Telesphere Mask 
+(patented 1960) and was the first example of a head-mounted display (HMD), 
+albeit for the non-interactive film medium without any motion tracking. 
+The headset provided stereoscopic 3D and wide vision with stereo sound.</p>
+<br>
+<p style="font-size:26px;"> <b> 1961 - Headsight-First motion tracking HMD</b>
+<br>In 1961, two Philco Corporation engineers (Comeau & Bryan) developed the first precursor to 
+the HMD as we know it today the Headsight. It incorporated a video screen for each eye and a
+ magnetic motion tracking system, which was linked to a closed circuit camera. 
+ The Headsight was not actually developed for virtual reality applications,
+ but to allow for immersive remote viewing of dangerous situations by the military. 
+ Head movements would move a remote camera, allowing the user to naturally look around the environment.
+ Headsight was the first step in the evolution of the VR head mounted display but it lacked the integration 
+ of computer and image generation.</p>
+ <br>
+<p style="font-size:26px;"> <b>1965 -  The Ultimate display by Ivan Sutherland</b>
+<br>Ivan Sutherland described the Ultimate Display concept that could simulate reality
+ to the point where one could not tell the difference from actual reality. His concept included:
+ <ul>
+<li>A virtual world viewed through a HMD and appeared realistic through augmented 3D sound and tactile feedback.</li>
+<li>Computer hardware to create the virtual word and maintain it in real time.</li>
+<li>The ability users to interact with objects in the virtual world in a realistic way</li>
+</ul>
+</p>
+
+<br>
+<p style="font-size:26px;"> <b>1968 - Sword of Damocles</b>
+<br>In 1968 Ivan Sutherland and his student Bob Sproull created the first VR / AR
+ head mounted display (Sword of Damocles) that was connected to a computer and not a camera. 
+ It was a large and scary looking contraption that was too heavy for any user to comfortably 
+ wear and was suspended from the ceiling (hence its name). The user would also need to be strapped into the device. 
+ The computer generated graphics were very primitive wireframe rooms and objects.</p>
+
+<br>
+<p style="font-size:26px;"> <b>1969 - Artificial Reality</b>
+<br>In 1969 Myron Kruegere a virtual reality computer artist developed a series of experiences which he termed artificial reality
+ in which he developed computer-generated environments that responded to the people in it.
+ The projects named GLOWFLOW, METAPLAY, and PSYCHIC SPACE were progressions in his research which ultimately let to
+ the development of VIDEOPLACE technology. This technology enabled people to communicate with each other in a responsive 
+ computer generated environment despite being miles apart.</p>
+
+ <br>
+<p style="font-size:26px;"> <b>1975 - Kruegers VIDEOPLACE</b>
+<br>The VIDEOPLACE is widely regarded as the first interactive VR system. Using a mix of CG, light projection,cameras 
+and screens it could measure user position. In modern terms its more like an AR projection and didnot feature any 
+sort of headset.</p>
+
+</div>
+
+
+
+
+
+</head> 
+</body>
+</html>
+

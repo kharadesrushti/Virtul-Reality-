@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+
+<!-- Latest compiled JavaScript -->
+<script async src="//jsfiddle.net/k23jr7xb/embed/html,css,result/"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+-->
+<link rel="stylesheet" href="design.css">
+
+		<title>Punarvspace Interns</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		
+	</head>
+	<body>
+		<div class="header">
+		
+		<label id="text" ><b>VERTUAL REALITY</b></label>
+
+			<img id="logo" src="logo1.png" >
+			
+		
+		</div>
+	
+		
+	<nav class="navbar navbar-expand-lg sticky bg-dark">
+  <div class="container-fluid">
+   <!-- <a class="active" href="E:\internship\project\vr\index.html">&nbsp&nbsp HOME &nbsp&nbsp</a>
+ -->
+ <div class="f">
+	<div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        
+           <li class="nav-item">
+          <a class="nav-link text-light" href="index.html">&nbsp&nbsp Home
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="history.html">&nbsp&nbsp History
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="features.html">&nbsp&nbsp 
+		Features &nbsp&nbsp</a>
+        </li>
+		<a class="nav-link text-light " aria-current="page" href="latest.html">		
+		  &nbsp&nbsp Latest Technology &nbsp&nbsp</a>
+        </li>
+         <li class="nav-item">
+          <a class="nav-link text-light" href="products.html">&nbsp&nbsp VR Products
+		  &nbsp&nbsp</a>
+        </li>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp<a href="#" class="fa fa-twitter"></a>&nbsp&nbsp
+   &nbsp&nbsp<a href="#" class="fa fa-facebook"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-google"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-youtube"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-linkedin"></a>&nbsp&nbsp
+	
+</div>
+</div>
+</div>
+</nav>
+<br><br><br>
+
+<h1><b>&nbsp&nbsp Latest Technologies of Virtual Reality</b></h1>
+</div>
+<br>
+
+<div class="row">
+  <div class="column ">
+  <div class="black">
+    &nbsp&nbsp <img src="latest.jpeg" height="600" alt="" width="1350" >
+	</div>
+	
+<div style="position:absolute; left:80px; top:350px;">
+<div class="col">
+
+<br><p><li><b>VR in Training and Education (Accurate Learning Without Risk)</b></li>
+<br><li><b>VR-Aided Retail Shopping (Shop Retail at Home)</li></b>
+<br><li><b>Entertaining Consumers With Virtual Reality (Experience Reality Remotely)</b></li>
+<br><li><b>Online Collaboration (VR Becomes a Social Norm)</li></b>
+<br><li><b>Tourism and Travel(Experience Destinations Before Booking</li></b>
+<br><li><b>Advertising With Virtual Reality (VR Goes Native)</li></b>
+<br><li><b>New Gaming VR Applications (VR Makes Games Better)</li></b>
+<br><li><b>VR Reshaping the Automotive Industry (Self-Driving Cars are the Future)</li></b>
+<br><li><b>VR and AI Applications (AI With Vision)</b></li>
+<br><li><b>Mixed Reality Headsets (AR and VR in One)</b></li>
+</p></p>
+</div>
+	
+	</div>
+	</div>
+	
+
+

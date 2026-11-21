@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+
+<!-- Latest compiled JavaScript -->
+<script async src="//jsfiddle.net/k23jr7xb/embed/html,css,result/"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="design.css">
+
+		<title>Punarvspace Interns</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	</head>
+	<body>
+		<div class="header">
+		
+		<label id="text" ><b>VERTUAL REALITY</b></label>
+
+			<img id="logo" src="logo1.png" >
+			
+		
+		</div>
+		
+	<nav class="navbar navbar-expand-lg sticky bg-dark">
+  <div class="container-fluid">
+  <!--  <a class="active" href="E:\internship\project\vr\index.html">&nbsp&nbsp HOME &nbsp&nbsp</a>
+ -->
+ <div class="f">
+	<div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+         <li class="nav-item">
+          <a class="nav-link text-light" href="index.html">&nbsp&nbsp Home
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="history.html">&nbsp&nbsp History
+		  &nbsp&nbsp </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-light" href="features.html">&nbsp&nbsp 
+		Features &nbsp&nbsp</a>
+        </li>
+		<a class="nav-link text-light " aria-current="page" href="latest.html">		
+		  &nbsp&nbsp Latest Technology &nbsp&nbsp</a>
+        </li>
+         <li class="nav-item">
+          <a class="nav-link text-light" href="products.html">&nbsp&nbsp VR Products
+		  &nbsp&nbsp</a>
+        </li>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp<a href="#" class="fa fa-twitter"></a>&nbsp&nbsp
+   &nbsp&nbsp<a href="#" class="fa fa-facebook"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-google"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-youtube"></a>&nbsp&nbsp
+	&nbsp&nbsp<a href="#" class="fa fa-linkedin"></a>&nbsp&nbsp
+	
+</div>
+</div>
+</div>
+</nav>
+ <div class="ba">
+<br><br><br>
+<div>
+
+<h1>&nbsp&nbsp VR Products</h1>
+<br>
+<h5><b>&nbsp&nbsp&nbsp&nbsp 1. Sony PlayStation VR
+BEST FOR PLAYSTATION 4 OWNERS
+</h5>
+<div class="row">
+  <div class="column ">
+    &nbsp&nbsp <img src="B7.png" alt="" style="width:110%; margin-top:35px;" >
+<div style="position:absolute; left:650px; top:350px;">
+	<p style="font-size:28px;">
+	<p><h5>The Sony PlayStation VR headset brings powerful, compelling virtual reality, with motion control support, to the PlayStation 4.
+US Street Price$399.99
+</h5></p>
+<dl>
+   <ol><dt>PROS:<dt/>
+      <ul> <dd><li>Immersive VR experience</li></dd>
+       <dd><li>Works with non-VR apps and games</li></dd>
+       <dd><li>Motion control support</li></dd>
+       <dd><li>Low cost of entry compared with PC-based headsets</li></dd>
+	   </ul></ol>
+</dl>
+<dl>
+   <ol><dt>CONS:<dt/>
+      <ul> <dd><li>Requires PlayStation Camera, which is not included</li></dd>
+       <dd><li>Slightly less powerful than its main competitors</li></dd>
+       <dd><li>Some motion-tracking hiccups when playing in brightly lit rooms</li></dd>
+       <dd><li>Low cost of entry compared with PC-based headsets</dd>
+	   </ul></ol>
+</dl>
+
+</div>
+	</div> 
+
+<h5><b><br>
+<br> 2.Valve index VR kit</h5></b>
+
+  <div class="column ">
+    &nbsp&nbsp <img src="B8.jpg" alt="" style="width:110%; margin-top:35px;" >
+<div style="position:absolute; left:650px; top:820px;">
+	<p style="font-size:28px;"><h5>  BEST FOR IMMERSIVE PC VR GAMING </h5>
+	The Valve Index is the most impressive consumer VR headset we've seen yet, entirely due to its revolutionary, finger-tracking controllers.
+US Street Price$999.00
+</h5></p>
+
+<dl>
+   <ol><dt>PROS:<dt/>
+      <ul><dd><li>Immersive, finger-tracking controllers</li></dd>
+       <dd><li>High, 120Hz refresh rate delivers smooth motion</li></dd>
+       <dd><li>Lots of VR software available on PC via SteamVR </li></dd>
+        </ul></ol>
+</dl>
+<dl>
+   <ol><dt>CONS:<dt/>
+      <ul> <dd><li>Expensive.</li></dd>
+       <dd><li>Slightly less powerful than its main competitors</li></dd>
+       <dd><li>Occasionally frustrating tethered design</li></dd>
+	   </ul></ol>
+</dl>
+</div>
+</div>
+
+<h5><b><br>
+<br>3.	HTC Vive Pro 2</h3></b>
+
+  <div class="column ">
+    &nbsp&nbsp <img src="B9.png" alt="" style="width:110%; margin-top:35px;" >
+<div style="position:absolute; left:650px; top:1250px;">
+	<p style="font-size:28px;"><h5><b> BEST FOR HIGH END PC VR</b></h5>
+	<br>
+The Vive Pro 2 is the highest-resolution VR headset we've seen yet, with a price to match. It's worth considering if you want the
+best VR experience available, and don't mind mixing and matching components.US Street Price$799.00
+</h5></p>
+
+<dl>
+   <ol><dt>PROS:<dt/>
+      <ul><dd><li>The best resolution for VR gaming</li></dd>
+       <dd><li>Smooth motion tracking</li></dd>
+       <dd><li>Works with Valve Index controllers</li></dd>
+        </ul></ol>
+</dl>
+<dl>
+   <ol><dt>CONS:<dt/>
+      <ul> <dd><li>Expensive</li></dd>
+       <dd><li>Doesn't include necessary base stations or controllers</li></dd>
+	   </ul></ol>
+
+</div>
+</div>
+</div>
+
+<style>
+.row {
+  flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0 47px;
+  margin:10px;
+  margin-bottom:10px;
+  width:595px;
+  
+}
+</style>
+
+
+
+</head> 
+</body>
+</html>
+

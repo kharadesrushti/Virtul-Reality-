@@ -1,0 +1,164 @@
+	.header{
+				width:100%;
+				height:100px;
+				background-color:black;
+			}
+			body{
+				margin:0px;
+				padding:0px;
+			}
+			#logo{
+			float:left;
+			margin-left:20px;
+			margin-top:25px;
+			height:50px;
+			width:120px;
+			border:black solid 2px;
+			
+			
+			float:left;
+			}
+			
+			#text{
+				font-size:40px;
+				float:left;
+				margin-left:400px;
+				margin-top:20px;
+				color:white;
+				font-family:"Playfair display";
+				}
+		.navbar {
+  width: 100%;
+}
+
+.navbar a {
+  
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background-color:black;
+}
+
+.active {
+  background-color:#808080;
+}
+.btn1{
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+    border:0px;
+    color:#fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    box-shadow:0px 0 0 #31708f  inset;
+}
+.btn1:hover{
+    -webkit-box-shadow: -100px 0 0 #FF0000 inset;
+}
+
+.btn2{
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+    border:0px;
+    color:#fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    box-shadow:0px 0 0 #31708f  inset;
+}
+.btn2:hover{
+    -webkit-box-shadow: -100px 0 0 #FF0000 inset;
+}
+
+
+.btn3{
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+    border:0px;
+    color:#fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    box-shadow:0px 0 0 #31708f  inset;
+}
+.btn3:hover{
+    -webkit-box-shadow: -100px 0 0 #FF0000 inset;
+}
+
+.btn4{
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    float: left;
+    border:0px;
+    color:#fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: linear;
+    box-shadow:0px 0 0 #31708f  inset;
+}
+.btn4:hover{
+    -webkit-box-shadow: -100px 0 0 #FF0000 inset;
+}
+
+.container1{
+
+ position: relative;
+
+ padding-bottom: 35.25%; /* set the aspect ratio here as (height / width) * 100% */
+
+ height: 0;
+
+ overflow: hidden;
+
+ max-width: 50%;
+
+}
+
+.container1 embed-responsive-item{
+ position: absolute;
+
+ top: 0;
+
+ left: 0;
+
+ width: 30%;
+
+ height: 10%;
+
+}
+.VR {
+	display:block;
+	text-align:justify;
+	width: 1000px ;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+.col{
+	color:white;
+}
+.back{
+	background:#00000;
+	position:absolute;
+	
+	z-index=1;
+	
+	}
+.f{
+	
+	font-weight:bold;
+}
+.ba{
+	background-color:#D3D3D3;
+}
